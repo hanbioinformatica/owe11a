@@ -1,0 +1,2 @@
+Aanroep:
+cwl-runner firsttool.cwl echo-job.yml
